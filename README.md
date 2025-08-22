@@ -1,6 +1,6 @@
 # Claude Code Configuration
 
-Personal Claude Code configuration for Sam Abbott (@seabbs).
+Personal Claude Code configuration for Sam Brand (@SamuelBrand1).
 
 ## Contents
 
